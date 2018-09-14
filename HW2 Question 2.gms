@@ -23,6 +23,7 @@ parameter c(i,j) link cost /
 
 parameter b(i) demand /
 1 1200
+4 -1200
 /;
 
 variable z;
