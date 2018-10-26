@@ -1,0 +1,2 @@
+agent id	from node	to node	        shortest path cost	shortest_path_node_seq
+    1	        0	        8	        20.0	                        0;1;3;4;7;8;
